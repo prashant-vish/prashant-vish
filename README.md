@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **NextJs** <br />
 - 👨‍💻 All of my projects are available at
-[https://portfolio-peach-ten-89.vercel.app/about](https://portfolio-peach-ten-89.vercel.app/about)
+[https://www.prashantcv.online/](https://www.prashantcv.online/)
 - 💬 Ask me about **MERN , Expert in React , Git and Github** <br />
 - 📫 How to reach me **vishwakarma0216@gmail.com** <br />
 - ⚡ Fun fact **I love sleeping on my Laptop...**<br />
 - 📄 Know about my
 experiences
-[https://drive.google.com/file/d/12XuIzfb_BaTVxMvuSMba984p8wSEhHZr/view?usp=drive_link](https://drive.google.com/file/d/12XuIzfb_BaTVxMvuSMba984p8wSEhHZr/view?usp=drive_link)
+  [Resume](https://drive.google.com/file/d/1rXxSLUA6p7MXOI7t3I26iLBJObGDkof3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
