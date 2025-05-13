@@ -54,7 +54,7 @@ experiences
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="prashant2409_"
+      alt="_prashant2409"
       height="30"
       width="40"
   /></a>
