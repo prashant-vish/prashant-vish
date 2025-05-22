@@ -195,27 +195,19 @@ experiences
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-vish&show_icons=true&locale=en&layout=compact"
-    alt="prashant-vish"
-  />
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant-vish&show_icons=true&theme=radical&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-vish&layout=compact&theme=radical" height="170px"/>
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prashant-vish&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=prashant-vish&show_icons=true&locale=en"
-    alt="prashant-vish"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashant-vish&theme=github_dark"/>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-vish&"
-    alt="prashant-vish"
-  />
-</p>
-
+---
